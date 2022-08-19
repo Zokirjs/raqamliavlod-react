@@ -1,0 +1,6 @@
+body{
+  background: url('/public/bg.png') no-repeat center 0;
+  height: 100%;
+  background-attachment: fixed;
+  background-size: cover;
+}
